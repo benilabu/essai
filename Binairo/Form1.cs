@@ -266,10 +266,7 @@ namespace Binairo
                 preds = historique[historique.Count - 1];
                 precedents = grille[preds.row, preds.col];
                 historique.RemoveAt(historique.Count - 1);
-                //preds = historique[historique.Count - 1];
-                //precedents = grille[preds.row, preds.col];
-               historique.RemoveAt(historique.Count - 1);
-
+              
             }
            
 
