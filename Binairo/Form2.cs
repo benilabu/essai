@@ -16,6 +16,8 @@ namespace Binairo
         public Form2()
         {
             InitializeComponent();
+            //la placa tiene una tore
+            
         }
 
         private void bOK_Click(object sender, EventArgs e)
