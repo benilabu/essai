@@ -1,0 +1,20 @@
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\obj\Debug\Binairo.Form1.resources
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\obj\Debug\Binairo.Properties.Resources.resources
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\obj\Debug\Binairo.csproj.GenerateResource.cache
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\bin\Debug\Binairo.exe.config
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\bin\Debug\Binairo.exe
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\bin\Debug\Binairo.pdb
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\obj\Debug\Binairo.exe
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\obj\Debug\Binairo.pdb
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\obj\Debug\Binairo.csprojAssemblyReference.cache
+E:\Cours\CoursH20\INF11207\Binairo\Binairo\obj\Debug\Binairo.Form2.resources
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\bin\Debug\Binairo.exe.config
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\bin\Debug\Binairo.exe
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\bin\Debug\Binairo.pdb
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\obj\Debug\Binairo.csprojAssemblyReference.cache
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\obj\Debug\Binairo.Form1.resources
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\obj\Debug\Binairo.Form2.resources
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\obj\Debug\Binairo.Properties.Resources.resources
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\obj\Debug\Binairo.csproj.GenerateResource.cache
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\obj\Debug\Binairo.exe
+C:\Users\bened\Desktop\cours\programmation-O2\Binairo (1)\Binairo\Binairo\obj\Debug\Binairo.pdb
